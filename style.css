@@ -1,0 +1,47 @@
+
+body {
+  background-color: black;
+  color: whitw;
+  font-family: "Didot", serif;
+  padding: 25px;
+}
+
+p {
+  color: white;
+}
+
+span {
+  color: #8b0000;
+}
+
+.terminal {
+  margin: 30px 0;
+}
+
+input {
+  background: #100000;
+  border: 1px solid #650000;
+  color: white;
+  padding: 12px;
+  outline: none;
+}
+
+input:focus {
+  border-color: #b00000;
+}
+
+button {
+  background: #650000;
+  border: 1px solid #a00000;
+  color: white;
+  padding: 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: black;
+}
+
+#mensagem {
+  color: #b00000;
+}
